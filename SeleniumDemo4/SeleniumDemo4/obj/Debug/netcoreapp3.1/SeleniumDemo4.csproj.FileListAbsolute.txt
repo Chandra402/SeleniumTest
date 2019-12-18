@@ -14,3 +14,10 @@ C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\Sele
 C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\obj\Debug\netcoreapp3.1\SeleniumDemo4.dll
 C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\obj\Debug\netcoreapp3.1\SeleniumDemo4.pdb
 C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\obj\Debug\netcoreapp3.1\SeleniumDemo4.csprojAssemblyReference.cache
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\SeleniumDemo4.exe
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\SeleniumDemo4.runtimeconfig.json
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\SeleniumDemo4.runtimeconfig.dev.json
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\obj\Debug\netcoreapp3.1\SeleniumDemo4.csproj.CopyComplete
