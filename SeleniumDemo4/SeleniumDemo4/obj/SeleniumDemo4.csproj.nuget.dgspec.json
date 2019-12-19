@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"
