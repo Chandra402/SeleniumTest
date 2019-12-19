@@ -21,3 +21,7 @@ C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\Newt
 C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\WebDriver.dll
 C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\obj\Debug\netcoreapp3.1\SeleniumDemo4.csproj.CopyComplete
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\MyRepos\SeleniumTest\SeleniumDemo4\SeleniumDemo4\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
